@@ -1,0 +1,8 @@
+[package]
+name = "guessNum"
+version = "0.1.0"
+authors = ["honjo"]
+
+[dependencies]
+
+rand = "0.3.0"
